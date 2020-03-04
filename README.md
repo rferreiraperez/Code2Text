@@ -1,2 +1,2 @@
 # Code2Text
-Create a text file from selected .net assembly
+Project to create file with code of a project or solution
